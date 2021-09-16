@@ -1,0 +1,35 @@
+Dear Students
+
+Your topic for CIA-Component5 is posted here.
+Scan the written sheets and save the file by giving the name of the file as your register number_subjectcode_cmp5.(eg: 2047101_MCSA132_cmp5.pdf) and upload the file in the google classroom.
+Attach the link of simulation which shows your name as author. If author name is not there it will not be evaluated.
+Note: Question Topic attached and necessary links mentioned below
+
+Question :
+Design the given counter and simulate in CIRCUITVERSE online simulator
+
+Marks
+Writing and uploding Ontime(15M)
+Block Diagram - 5M
+Truthtable - 3M
+Timing Diagram - 7M
+
+Simulation -(10M)
+
+
+Counters Online Class-Video Link
+https://drive.google.com/file/d/1OrRvOqSYXE1gL5AsjtuX8j8fxdrF2eYt/view?usp=sharing
+
+Circuitverse Simulation Link
+1. Asynchronous UP/DOWN Counter
+https://circuitverse.org/simulator/embed/ripple-upcounter-c90088c9-870f-4d84-bb91-52e82f38f80f
+
+2. MOD 26 Counter
+https://circuitverse.org/simulator/embed/mod-counter-cb3f1c62-32a3-433c-b283-ae25e0b3c5d4
+
+All the Best
+Happy Learning!!!!
+
+
+
+<iframe width="600px" height="400px" src="https://circuitverse.org/simulator/embed/2047013_mcsa132_cmp5" id="projectPreview" scrolling="no" webkitAllowFullScreen mozAllowFullScreen allowFullScreen></iframe>

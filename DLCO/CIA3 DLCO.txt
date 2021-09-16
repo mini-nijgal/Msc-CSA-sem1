@@ -1,0 +1,4 @@
+Design the expression using basic gates in Circuit-Verse Online Simulator and verify with truth table. Submit the link for evaluation.
+(A'B+C')(AB'C'+B)'(AB'+C')
+
+<iframe width="600px" height="400px" src="https://circuitverse.org/simulator/embed/2047013" id="projectPreview" scrolling="no" webkitAllowFullScreen mozAllowFullScreen allowFullScreen></iframe>
